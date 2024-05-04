@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Mark all files as vendored to hide language statistics
+* linguist-vendored=true
